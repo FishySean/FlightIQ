@@ -25,7 +25,7 @@ A web app that generates **airline on-time rankings**, **airport on-time ranking
 | Role | Responsibilities |
 |------|------------------|
 | **Shanhao Gu** | Idea & concept, web development, video creation |
-| **Sean Fan** | Idea & concept, web development |
+| **Sean Fan** | Idea & concept, web development, data collection |
 | **Sophia Lyu** | Data collection, data cleaning, PPT creation |
 | **Elya Fan** | Output presentation, UI/UX enhancement, PPT creation & summary |
 
